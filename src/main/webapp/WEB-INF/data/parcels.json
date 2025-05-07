@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "sender": "Alice",
+        "recipient": "Bob",
+        "origin": "Montreal",
+        "destination": "Toronto",
+        "status": "In Transit",
+        "description": "Electronics shipment"
+    },
+    {
+        "id": 2,
+        "sender": "Charlie",
+        "recipient": "Dave",
+        "origin": "Vancouver",
+        "destination": "Calgary",
+        "status": "Pending",
+        "description": "Books and stationery"
+    }
+]
